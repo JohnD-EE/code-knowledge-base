@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "VueJS 3/Computed Properties.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "VueJS 3/Computed Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,6 +104,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "VueJS 3/Untitled.md",
+    "VueJS 3/Untitled 1.md",
+    "Untitled.md",
     "README.md"
   ]
 }
